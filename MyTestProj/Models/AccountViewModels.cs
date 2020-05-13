@@ -13,6 +13,7 @@ namespace MyTestProj.Models
     public class ExternalLoginListViewModel
     {
         public string ReturnUrl { get; set; }
+
     }
 
     public class SendCodeViewModel
