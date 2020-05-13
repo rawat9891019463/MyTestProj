@@ -21,6 +21,7 @@ namespace MyTestProj.Controllers
         public AccountController()
         {
             // Comment goes here...
+            //Some fix done from HotFix barnch
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
