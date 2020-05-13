@@ -20,6 +20,7 @@ namespace MyTestProj.Controllers
 
         public AccountController()
         {
+            // Comment goes here...
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
