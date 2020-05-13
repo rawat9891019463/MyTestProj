@@ -22,6 +22,7 @@ namespace MyTestProj.Controllers
         {
             // Comment goes here...
             //Some fix done from HotFix barnch
+            //Fix done from hot fix and want to merge into beta branch
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
